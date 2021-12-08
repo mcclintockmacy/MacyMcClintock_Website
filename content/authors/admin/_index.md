@@ -22,9 +22,9 @@ interests:
 - Marketing
 
 # Education to show in About widget
-education: George Washington University
+education: 
   courses:
-  - course: B.A. Journalism / Mass Communications, Minors in Sustainability, Public Policy
+  - course: Journalism & Mass Communications
     institution: George Washington University
     year: December, 2022
 
