@@ -1,1 +1,0 @@
-usethis::use_git_remote("origin", url = "https://github.com/mcclintockmacy/MacyMcClintock_Website.git", overwrite = TRUE)

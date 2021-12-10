@@ -6,27 +6,27 @@ title: Macy McClintock
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Student journalist
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: George Washington University
 
 # Short bio (displayed in user profile at end of posts)
-bio: CHANGE BIO HERE
+bio: I am a Tampa native currently studying in Washington, D.C. I'm a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism as a journalism major with minors in public policy and sustainability in the School of Media and Public Affairs at George Washington University. I have freelanced as a professional journalist for years and am now pursuing opportunities in strategic communications and digital strategy. I have experience interning for several marketing and public relations departments. My portfolio includes various writing and marketing samples to reflect my experience and my passion for this industry.
 
 # Interests to show in About widget
 interests:
 - Data Analysis
-- Strategic Communication
-- Marketing
+- Content Creation
+- Earned Media 
 
 # Education to show in About widget
 education: 
   courses:
   - course: Journalism & Mass Communications
     institution: George Washington University
-    year: December, 2022
+    year: December 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -20,29 +20,28 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+email: mcclintockmacy@gwu.edu
+phone: 813 597 6270
+  city: Washington
+  region: DC
+  postcode: '20037'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-appointment_url: 'https://calendly.com'
+
+
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    link: 'https://twitter.com/MacyMcClintock'
+  - icon: linkedin
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-
+    name: Connect with Me
+    link: 'https://www.linkedin.com/in/macy-mcclintock-82473a16b/'
+ - icon: facebook
+    icon_pack: fab
+    name: Friend Me
+    link: 'https://www.facebook.com/profile.php?id=100005288712716'
 # Site header
 
 main_menu:
@@ -56,7 +55,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Dec 10, 2021'
 time_format: '3:04 PM'
 address_format: en-us
 

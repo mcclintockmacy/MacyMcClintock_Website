@@ -4,9 +4,9 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Alice Bighetti # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Macy McClintock # Website name
+baseurl: 'https://mcclintockmacy.netlify.app/' # Website URL
+copyright: '© Macy McClintock' # Footer text, e.g. '© 2021 '
 
 ############################
 ## LANGUAGE
