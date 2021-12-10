@@ -22,11 +22,11 @@ twitter: ''
 
 email: mcclintockmacy@gwu.edu
 phone: 813 597 6270
-  city: Washington
-  region: DC
-  postcode: '20037'
-  country: United States
-  country_code: US
+city: Washington
+region: DC
+postcode: '20037'
+country: United States
+country_code: US
 
 
 contact_links:
@@ -37,7 +37,7 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Connect with Me
-    link: 'https://www.linkedin.com/in/macy-mcclintock-82473a16b/'
+    link: https://www.linkedin.com/in/macy-mcclintock-82473a16b/
  - icon: facebook
     icon_pack: fab
     name: Friend Me

@@ -6,14 +6,14 @@ title: Macy McClintock
 superuser: true
 
 # Role/position/tagline
-role: Student journalist
+role: Student Journalist
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: George Washington University
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Tampa native currently studying in Washington, D.C. I'm a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism as a journalism major with minors in public policy and sustainability in the School of Media and Public Affairs at George Washington University. I have freelanced as a professional journalist for years and am now pursuing opportunities in strategic communications and digital strategy. I have experience interning for several marketing and public relations departments. My portfolio includes various writing and marketing samples to reflect my experience and my passion for this industry.
+bio: Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability in the School of Media and Public Affairs at George Washington University. She has freelanced as a professional journalist for years and is now pursuing opportunities in strategic communications and digital strategy. She has experience working for several marketing and PR departments, most recently Marketing for Change.
 
 # Interests to show in About widget
 interests:
@@ -37,13 +37,13 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
-  icon_pack: fab
+  icon_pack: fas
   link: https://twitter.com/GeorgeCushen
   label: Follow me on Twitter
   display:
     header: true
 - icon: github
-  icon_pack: fab
+  icon_pack: fas
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
@@ -63,8 +63,8 @@ email: "mcclintockmacy@gwu.edu"
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability. A Tampa native with six years of experience freelancing for the Tampa Bay Times, she knows how to work under the pressure of deadlines. Now, her interests lie in digital strategy and strategic communications. She has keen skills in client relations, content creation and data analysis. She most recently worked with Marketing for Change as a Marketing Assistant and the GW Office of Student Life.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of work and school, Macy is the Vice President of Fellowship for GW's Alpha Phi Omega chapter and is an active volunteer for Charlie's place, a DC homeless ministry, and OneTent Health, a mobile HIV testing site. She also runs George's Army, GW's school spirit organization, and is on the Women's Club Ultimate Frisbee Team. She is an enthusiastic team player who is eager to learn and work hard.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
