@@ -34,16 +34,16 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: fab
   link: '/#contact'
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: https://twitter.com/GeorgeCushen
   label: Follow me on Twitter
   display:
     header: true
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab

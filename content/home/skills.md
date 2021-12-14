@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Intermediate
+- description: Proficient
   icon: r-project
   icon_pack: fab
-  name: R Studio
-- description: Intermediate
+  name: Content Creation
+- description: Proficient
   icon: comment-dollar
   icon_pack: fas
   name: Ad Management

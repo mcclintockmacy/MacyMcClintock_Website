@@ -28,7 +28,6 @@ postcode: '20037'
 country: United States
 country_code: US
 
-
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -37,11 +36,12 @@ contact_links:
   - icon: linkedin
     icon_pack: fab
     name: Connect with Me
-    link: https://www.linkedin.com/in/macy-mcclintock-82473a16b/
- - icon: facebook
+    link: 'https://bit.ly/3pX4h9m'
+  - icon: facebook
     icon_pack: fab
     name: Friend Me
     link: 'https://www.facebook.com/profile.php?id=100005288712716'
+    
 # Site header
 
 main_menu:
