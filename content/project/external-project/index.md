@@ -5,7 +5,6 @@ tags:
 - Journalism
 - Writing
 - Feature Story
-- '*'
 date: "2020-12-10"
 
 external_link: 'https://docs.google.com/document/d/1zvRKPiBttvdiIXNDkcxrsi4OQyOxPRn2eWv_QKSUEEo/edit?usp=sharing'

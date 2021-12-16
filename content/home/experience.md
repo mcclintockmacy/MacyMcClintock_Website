@@ -31,7 +31,7 @@ experience:
     description: |2-
     
         * Coordinated media buys for three professional companies, handling a combined budget of over $100,000, tracking progress weekly and compiling progress reports
-        * Analyzed and compiled data for several federal agency websites to track website growth and give input on how to further increase website growth. Site growth has increased by over 200% based on my suggestions
+        * Analyzed and compiled data for several federal agency websites to track website growth and give input on how to further increase website growth. Site growth has increased significantly
         * Tracked all recruitment data and created a portal for the Dean of Students to check our progress based on the numbers
         
   - title: Student Coordinator, Orientation Leader Experience

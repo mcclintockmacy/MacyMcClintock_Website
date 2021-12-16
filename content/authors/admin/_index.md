@@ -13,13 +13,13 @@ organizations:
 - name: George Washington University
 
 # Short bio (displayed in user profile at end of posts)
-bio: Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability in the School of Media and Public Affairs at George Washington University.
+bio: Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability.
 
 # Interests to show in About widget
 interests:
-- Data Analysis
-- Content Creation
-- Earned Media 
+- Photography
+- Social causes
+- Rooting for Tampa Bay Sports Teams 
 
 # Education to show in About widget
 education: 
@@ -42,9 +42,9 @@ social:
   label: Follow me on Twitter
   display:
     header: true
-- icon: github
+- icon: facebook
   icon_pack: fab
-  link: https://github.com/mcclintockmacy
+  link: https://www.facebook.com/profile.php?id=100005288712716
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/macy-mcclintock-82473a16b/
@@ -63,7 +63,7 @@ email: "mcclintockmacy@gwu.edu"
 highlight_name: true
 ---
 
-Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability. A Tampa native with six years of experience freelancing for the Tampa Bay Times, she knows how to work under the pressure of deadlines. Now, her interests lie in digital strategy and strategic communications. She has keen skills in client relations, content creation and data analysis. She most recently worked with Marketing for Change as a Marketing Assistant and the GW Office of Student Life.
+Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability. A Tampa native with four years of experience freelancing for the Tampa Bay Times, she knows how to work under the pressure of deadlines. Now, her interests lie in digital strategy and strategic communications. She has keen skills in client relations, content creation and data analysis. She most recently worked with Marketing for Change as a Marketing Assistant and the GW Office of Student Life.
 
 Outside of work and school, Macy is the Vice President of Fellowship for GW's Alpha Phi Omega chapter and is an active volunteer for Charlie's place, a DC homeless ministry, and OneTent Health, a mobile HIV testing site. She also runs George's Army, GW's school spirit organization, and is on the Women's Club Ultimate Frisbee Team. She is an enthusiastic team player who is eager to learn and work hard.
 
