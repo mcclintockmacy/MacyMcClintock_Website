@@ -13,7 +13,7 @@ organizations:
 - name: George Washington University
 
 # Short bio (displayed in user profile at end of posts)
-bio: Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability in the School of Media and Public Affairs at George Washington University. She has freelanced as a professional journalist for years and is now pursuing opportunities in strategic communications and digital strategy. She has experience working for several marketing and PR departments, most recently Marketing for Change.
+bio: Macy McClintock is a rising senior in the School of Media and Public Affairs at George Washington University, majoring in journalism with minors in public policy and sustainability in the School of Media and Public Affairs at George Washington University.
 
 # Interests to show in About widget
 interests:
@@ -38,16 +38,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MacyMcClintock
   label: Follow me on Twitter
   display:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mcclintockmacy
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/macy-mcclintock-82473a16b/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

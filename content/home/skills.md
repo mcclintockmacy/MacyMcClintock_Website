@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Proficient
-  icon: r-project
-  icon_pack: fab
+  icon: laptop
+  icon_pack: fas
   name: Content Creation
 - description: Proficient
   icon: comment-dollar
